@@ -1,0 +1,11 @@
+
+Afke Holgersen
+CMPT 300 Assignment 3
+
+Implementations of the spinlock TAS, spinlock TTAS, mutex (exponential backoff), and queue lock are all safe for recursion, which is accounted
+for in the results, as this adds overhead.
+
+To compile: same as how the file was given. "make" to make the file, ./mylocks with all special values as indicated. (This is what i used
+to test)
+
+ 
