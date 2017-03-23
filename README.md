@@ -1,5 +1,5 @@
 # Author
-Afke Holgerson
+Afke Holgersen
 
 ## Locks Implementations
 As an assignment for an Operating Systems class,  4 locks were implemented in C and compared with the pthread locks from the pthread library: 
